@@ -1,0 +1,10 @@
+dump/*.sql
+cnf/
+cnf/*
+import/xxxxxxxxx/dev/__internal_call___sa-east-1.db
+import/xxxxxxxxx/dev/test_eu-west-1.db
+import/xxxxxxxxx/empty/__internal_call___sa-east-1.db
+import/xxxxxxxxx/empty/test_eu-west-1.db
+import/xxxxxxxxx/test/__internal_call___sa-east-1.db
+import/xxxxxxxxx/test/test_eu-west-1.db
+flyway.sql
